@@ -10,7 +10,7 @@ $(document).ready(function() {
             $(this).addClass("puff-bubble");
         });
         $("#glow").remove();
-        txt.hide().html("happy birthday").delay(750).fadeIn(300);
+        txt.hide().html("Happy Birthday,the beautiful girl in the world. Make a wish before your happy day starts running out of time. There's not much I want to say here, but I hope everything you want will come true, and God will make things easier for you. I love you, My Star 🌟").delay(750).fadeIn(300);
         $("#candle").animate(
             {
             opacity: ".5"
